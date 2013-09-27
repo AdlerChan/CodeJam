@@ -60,4 +60,3 @@ def not_complete(array):
 if __name__ == "__main__":
     start_time = time.clock()
     main()
-    #sys.stderr.write("Used {}(s) to run finish detecting.\n".format(time.clock() - start_time))
